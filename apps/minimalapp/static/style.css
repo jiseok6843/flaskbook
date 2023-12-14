@@ -1,0 +1,9 @@
+body {
+    background-color: #777;
+}
+
+
+/* 이렇게 해도 됨
+body {
+    background-color: rgb(209, 209, 209);
+} */
